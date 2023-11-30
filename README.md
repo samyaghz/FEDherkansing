@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Samya El Ghazi
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Mijn focus ligt op de surface plane
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.vogue.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Vogue: homepagina  
+  <img src="readme-images/voguehomepagina.png" width="375px" alt="Dit is de homepagina van vogue">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Vogue: Detailpagina haren verzorgen in de winter  
+  <img src="readme-images/voguedetailpagina.png" width="375px" alt="Dit is de detailpagina over het verzorgen van je haar tijdens de winter">
  
 </details>
 
@@ -58,6 +58,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  Screenreader:
+
+  De screenreader leest niet alles in de juiste volgorde omdat er veel divs zijn gebruikt in de website. Vogue gebruikt ook veel kopjes met titels en als je daarop klikt krijg je het hele artikel te zien. De screenreader zegt alleen niet dat je erop kan klikken en dat het een artikel is die je kan lezen. Sommige buttons worden overgeslagen.
+
+  Bij sommige titels/kopjes blijft de screenreader vastlopen en word de tekst herhaald.
+
+  Problemen kunnen opgelost worden door bijvoorbeeld meer sections en articles te gebruiken in plaats van divs. 
+
 </details>
 
 
@@ -68,13 +76,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownschetshome.jpg" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### kopjes: 
+  <img src="readme-images/breakdownschetssection.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### dynamisch deel menu: 
+  <img src="readme-images/breakdownschetsmenu.jpg" width="375px" alt="breakdown van menu">
 
 </details>
 
